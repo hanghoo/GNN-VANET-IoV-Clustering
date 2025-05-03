@@ -21,6 +21,9 @@ Make sure you have the following installed:
 - Deep Graph Library (DGL)
 ### Installation
 
+### Related Publications
+[Graph Neural Network-based Clustering Enhancement in VANET for Cooperative Driving](https://ieeexplore.ieee.org/abstract/document/9722625)
+
 ### References
 Krajewski R, Bock J, Kloeker L, Eckstein L. The highd dataset: A drone dataset of naturalistic vehicle trajectories on german highways for validation of highly automated driving systems. In2018 21st international conference on intelligent transportation systems (ITSC) 2018 Nov 4 (pp. 2118-2125). IEEE.
 
