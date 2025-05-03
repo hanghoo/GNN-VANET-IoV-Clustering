@@ -7,9 +7,9 @@ Graph Neural Network-based Clustering Enhancement in VANET for Cooperative Drivi
 We use a Graph Neural Network (GNN) model to learn effective node representations, which can help aggregate vehicles with similar patterns into stable clusters.
 
 Key features:
-- Feature 1
-- Feature 2
-- Feature 3
+- Centralized eNodeB-Assisted Framework
+- Inductive GraphSAGE Model
+- Evaluation on Real-World Dataset
 
 ## 🚀 Getting Started
 
