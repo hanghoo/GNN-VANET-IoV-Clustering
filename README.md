@@ -20,7 +20,7 @@ Make sure you have the following installed:
 - PyTorch
 - Deep Graph Library (DGL)
 ### Installation
-- TBD
+- TBD. Will update soon
 
 ### Related Publications
 [Graph Neural Network-based Clustering Enhancement in VANET for Cooperative Driving](https://ieeexplore.ieee.org/abstract/document/9722625)
