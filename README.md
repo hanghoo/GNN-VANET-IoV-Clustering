@@ -25,4 +25,4 @@ Make sure you have the following installed:
 Krajewski R, Bock J, Kloeker L, Eckstein L. The highd dataset: A drone dataset of naturalistic vehicle trajectories on german highways for validation of highly automated driving systems. In2018 21st international conference on intelligent transportation systems (ITSC) 2018 Nov 4 (pp. 2118-2125). IEEE.
 
 ### License
-This project is licensed under the MIT License. See LICENSE file for details.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/hanghoo/GNN-VANET-IoV-Clustering/blob/master/LICENSE) file for details.
