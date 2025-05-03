@@ -1,6 +1,6 @@
 # GNN-VANET-IoV-Clustering
 
-Graph Neural Network-based Clustering Enhancement in VANET for Cooperative Driving.
+Graph Neural Network-based Clustering Enhancement in VANET for Cooperative Driving. The related publication are listed in a separate section below and will be continuosly updated.
 
 ## 🔍 Overview
 
